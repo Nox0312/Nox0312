@@ -30,5 +30,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Nox0312/Nox0312/output/github-snake.svg" />
 </picture>
 
-
-test
